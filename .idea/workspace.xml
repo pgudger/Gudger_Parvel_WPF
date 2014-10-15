@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e517bee4-38d9-4767-a04d-5884306b63ed" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Go To Training 2/js/week2.js" afterPath="$PROJECT_DIR$/Go To Training 2/js/week2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Gudger_Parvel_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +39,8 @@
       <file leaf-file-name="week2.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Go To Training 2/js/week2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.65481174" vertical-offset="77" max-vertical-offset="630">
-              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.9372385" vertical-offset="317" max-vertical-offset="855">
+              <caret line="51" column="61" selection-start-line="51" selection-start-column="61" selection-end-line="51" selection-end-column="61" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -65,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="693" />
-    <option name="y" value="24" />
+    <option name="x" value="618" />
+    <option name="y" value="34" />
     <option name="width" value="954" />
     <option name="height" value="575" />
   </component>
@@ -154,7 +155,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="693" y="24" width="954" height="575" extended-state="0" />
+    <frame x="618" y="34" width="954" height="575" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -224,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Go To Training 2/js/week2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65481174" vertical-offset="77" max-vertical-offset="630">
-          <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.9372385" vertical-offset="317" max-vertical-offset="855">
+          <caret line="51" column="61" selection-start-line="51" selection-start-column="61" selection-end-line="51" selection-end-column="61" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
