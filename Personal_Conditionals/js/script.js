@@ -6,11 +6,23 @@ WPF 1408 Section 02
 10-16-14
  */
 
- var AskingName = prompt ("What is your name");
+ var AskingName = prompt ("Please enter name.");
 
  console.log(AskingName);
 
- alert("Welcome "+AskingName+"! Are you over 18!");
+ if (AskingName) {
+
+     alert("Welcome "+AskingName+"! Are you over 18!");
+ }else {
+
+     alert("Access denied name needed!")
+
+     for (initialization; condition; increment) {
+         // statements
+     }
+ }
+
+
 
 // Age verification prompt
 var yearBorn = prompt("Age verification needed. What year were you born!");
