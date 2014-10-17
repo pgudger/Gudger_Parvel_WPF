@@ -8,7 +8,9 @@ WPF 1408 Section 02
 
  var AskingName = prompt ("What is your name");
 
- alert("Welcome "+AskingName+"! Age verification needed!");
+ console.log(AskingName);
+
+ alert("Welcome "+AskingName+"! Are you over 18!");
 
 // Age verification prompt
 var yearBorn = prompt("Age verification needed. What year were you born!");
@@ -16,33 +18,46 @@ var yearBorn = prompt("Age verification needed. What year were you born!");
  console.log(yearBorn);
 // Current year
  var currentYear = 2014;
+ // Console log
+ console.log(currentYear);
 // Subtracting current year from year born
  var age = currentYear - yearBorn;
 //Console log
  console.log(age);
-//alert
- alert(AskingName+ " you are " +age+ " years old.");
-//if-else
-if (age >= 18){
+//If Else
+if (age >= 18) {
 
     alert("You may continue!");
 
-}else{
+}else {
 
-    alert("You are not over over 18!")
- }
+    alert("You are not over over 18!");
+    alert("Access denied! You must be 18 years of age, or older to show at Gudg Hunting Supplies");
+
+    for (initialization; condition; increment) {
+        // statements
+    }
+
+
+}
+
+
+
 
 //Welcome alert
- alert("Welcome "+AskingName+" to Gudg Hunting Supplies!");
+ alert("Welcome "+AskingName+"! to Gudg Hunting Supplies!");
+
+ document.bgColor = "#8fbc8f";
 //Array
  var huntingGear = ["Bows", "Arrows", "Tree stands",
-     "Rifles", "Rifle ammo", "Camo shirts", "Camo pants", "Camo boots", "Hunting blinds"];
+     "Rifles", "Rifle ammo", "Camo shirts", "Camo pants",
+     "Camo boots", "Hunting blinds"];
 //Console log
  console.log(huntingGear);
 
  console.log(huntingGear.length);
 
-alert("Please place your order.");
+alert("Please check out our supply list and, place your order.");
 
  var Supplies = prompt("Type out what supplies you want, and click okay.");
 
@@ -52,41 +67,25 @@ alert("Please place your order.");
 
      alert("Please enter address and supplies will be shipped; in 2 business days.");
 
-     var address = prompt("Address.");
+     var address = prompt("Enter Address.");
 
      console.log(address);
+
+     alert("Your supplies will ship in 2 days.");
+
+
 
  }else {
-
+    //
      alert("No supplies listed in order please try again!");
 
-     prompt("Please place order!");
-
-     if (Supplies) {
-
-         prompt("Please enter address for shipping.");
-
-
-     }if (address) {
-
-
-         alert("Thank you " + AskingName + " your parts will be shipped in two days.");
-
-     } else {
-
-         alert("No address please try again!");
-
-         alert("ADDRESS NEEDED FOR SHIPPING!");
+     for (initialization; condition; increment) {
+         // statements
      }
 
-     prompt("Enter address for shipping of supplies!");
 
- }if (address) {
-
-     console.log(address);
-
-     alert("Thank you "+AskingName+" your parts will be shipped in two days.");
  }
+
 
 
 
