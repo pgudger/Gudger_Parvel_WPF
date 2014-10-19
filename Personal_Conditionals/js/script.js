@@ -43,7 +43,7 @@ if (age >= 18) {
 
 }else {
 
-    alert("You are not over over 18!");
+    alert("You are not over 18!");
     alert("Access denied! You must be 18 years of age, or older to show at Gudg Hunting Supplies");
 
     for (initialization; condition; increment) {

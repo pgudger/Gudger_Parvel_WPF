@@ -388,7 +388,7 @@ var colorOfShirt = [1,2,3,4,5,6,7,8,9,10,11,12];
  console.log(colorOfShirt);
  console.log(colorOfShirt.length);
 
- alert("Pick the number that matches the shirt you are wearing right now.");
+ alert("Pick the number that matches the color of the shirt; you are wearing right now.");
 
  var colorOfShirtPrompt = prompt("What color shirt are you wearing right now?");
 
