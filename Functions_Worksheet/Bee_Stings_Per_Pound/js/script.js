@@ -7,8 +7,10 @@ Go To Training Week 2
  */
 
 var elephantsWeight = 24000;
+/* Weight of an full grown Elephant.*/
 
  var beeStings = 8.666666667;
+ /* How many bee stings it takes to kill per pound.*/
 
  var totalStings = calcBeeStings(elephantsWeight, beeStings);
 
